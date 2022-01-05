@@ -1,0 +1,3 @@
+interface CloudsProps {
+  amount: number;
+}
