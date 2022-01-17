@@ -3,7 +3,7 @@
 </div>
 <br/>
 <h2>How to see project?</h2>
-<p>Go to https://destiny.vercel.app/ to see the project</p>
+<p>Go to https://destiny.fhillslinger.vercel.app/ to see the project</p>
 <h2>Introduction</h2>
 <p>
   Well, I created this page because I really liked this anime, 
