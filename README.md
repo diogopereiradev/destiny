@@ -5,6 +5,7 @@
 <h2>How to see project?</h2>
 <p>Go to https://destiny.vercel.app/ to see the project</p>
 <br/>
+<h2>Introduction</h2>
 <p>
   Well, I created this page because I really liked this anime, 
   so I&apos;ll share a little bit of my opinion about the anime 
