@@ -4,7 +4,7 @@
   "description": "This is my first project of the year, I created with the theme of Takt Op. Destiny for having really liked the anime I hope you like it.",
   "main": "dist/app.js",
   "repository": "https://github.com/FhillSlinger/destiny",
-  "author": "FhillSlinger <fhillslingercontact@gmail.com>",
+  "author": "Diogo Pereira <diogopereira.contact@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
